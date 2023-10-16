@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, 'Roboto', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.6;
+    text-align: center;
+    color: #333;
+    display: block;
+}
+
+main {
+    padding: 16px;
+    border-radius: 4px;
+    background: #eee;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 20px auto;
+}
+
+.title-descr {
+    margin-bottom: 20px;
+}
+
+#img-div {
+    background: white;
+    padding: 16px;
+}
+
+
+img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin: 16px auto 0px auto;
+}
+
+#img-caption {
+    margin: 8px 0 8px 0;
+}
+
+#headline {
+    margin: 48px 0 40px 0;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+
+.footer {
+    margin-bottom: 16px;
+}
